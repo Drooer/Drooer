@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Drooer and I would like to become a computer engineer. I code in Python and many other computer languages.
+- 👀 I’m interested in programmation and dev with Python
+- 🌱 I’m currently learning at Python dev
+- 📫 How to reach me : baad7code@protonmail.com, and Discord : Drooer_#7288 and on my server, Club.Cake : https://discord.gg/XfMYqpVF
